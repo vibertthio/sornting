@@ -78,14 +78,15 @@ body {
         opacity: 1.0; }
   .index-module__title____kuSF .index-module__tips___1wmdy {
     width: 40%;
-    margin: 0.5rem auto 0.2rem auto;
+    margin: 0.1rem auto 0.2rem auto;
     position: relative;
-    top: -10px; }
+    top: -20px; }
     .index-module__title____kuSF .index-module__tips___1wmdy h3 {
-      margin: 0.1rem; }
+      margin: 0.1rem;
+      font-size: 1.0rem; }
     .index-module__title____kuSF .index-module__tips___1wmdy p {
       margin: 0.2rem;
-      font-size: 1rem; }
+      font-size: 0.7rem; }
     @media screen and (max-width: 1000px) {
       .index-module__title____kuSF .index-module__tips___1wmdy {
         margin: 0.8rem auto; } }
