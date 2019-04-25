@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 import { MusicVAE } from '@magenta/music';
+import Matter from 'matter-js';
 import uuidv4 from 'uuid/v4';
 
 
@@ -629,7 +630,7 @@ class App extends Component {
               <br />A game based on a musical machine learning algorithm which can interpolate different melodies. Made by{' '}
               <a href="https://vibertthio.com/portfolio/" target="_blank" rel="noreferrer noopener">
                 Vibert Thio
-              </a>.{' Source code is on '}
+              </a>{'. The source code is on '}
               <a
                 href="https://github.com/vibertthio/sornting"
                 target="_blank"
