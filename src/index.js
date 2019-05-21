@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 import { MusicVAE } from '@magenta/music';
-import Matter from 'matter-js';
 import uuidv4 from 'uuid/v4';
 
 
